@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wheather-app-react/static/css/main.850a4115.css",
+    "main.js": "/wheather-app-react/static/js/main.f85c4988.js",
+    "static/js/787.04af8d4a.chunk.js": "/wheather-app-react/static/js/787.04af8d4a.chunk.js",
+    "static/media/rain-partly-cloudly.png": "/wheather-app-react/static/media/rain-partly-cloudly.dfeffdf781b9da11f684.png",
+    "static/media/snow.png": "/wheather-app-react/static/media/snow.a1bab4977c6b746bbe1b.png",
+    "static/media/rain.png": "/wheather-app-react/static/media/rain.1cdab174f0ee1f893247.png",
+    "static/media/partly-cloudly.png": "/wheather-app-react/static/media/partly-cloudly.09ebc518ec014910b5a6.png",
+    "static/media/clear.png": "/wheather-app-react/static/media/clear.dec3806c86439bc75edd.png",
+    "static/media/overcast.png": "/wheather-app-react/static/media/overcast.93901c928a0fc4b9a874.png",
+    "index.html": "/wheather-app-react/index.html",
+    "main.850a4115.css.map": "/wheather-app-react/static/css/main.850a4115.css.map",
+    "main.f85c4988.js.map": "/wheather-app-react/static/js/main.f85c4988.js.map",
+    "787.04af8d4a.chunk.js.map": "/wheather-app-react/static/js/787.04af8d4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850a4115.css",
+    "static/js/main.f85c4988.js"
+  ]
+}
